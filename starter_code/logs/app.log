@@ -1,0 +1,23 @@
+2021-02-27 21:40:59,833 ERROR c.e.d.c.CartController [main] No items
+2021-02-27 21:40:59,855 ERROR c.e.d.c.CartController [main] User not found
+2021-02-27 21:40:59,857 INFO c.e.d.c.CartController [main] cart saved
+2021-02-27 21:40:59,858 ERROR c.e.d.c.CartController [main] No items
+2021-02-27 21:40:59,858 ERROR c.e.d.c.CartController [main] User not found
+2021-02-27 21:40:59,860 INFO c.e.d.c.CartController [main] Item removed
+2021-02-27 21:41:19,339 INFO c.e.d.c.ItemController [main] Order: 1
+2021-02-27 21:41:19,356 INFO c.e.d.c.ItemController [main] Order: 1
+2021-02-27 21:41:19,359 INFO c.e.d.c.ItemController [main] Items: Not found
+2021-02-27 21:41:19,361 INFO c.e.d.c.ItemController [main] Items: Items found
+2021-02-27 21:41:19,362 INFO c.e.d.c.ItemController [main] findbyId: Optional[com.example.demo.model.persistence.Item@1f] 
+2021-02-27 21:41:19,364 INFO c.e.d.c.ItemController [main] findbyId: Optional.empty 
+2021-02-27 21:41:25,657 INFO c.e.d.c.UserController [main] createUser: success
+2021-02-27 21:41:25,674 INFO c.e.d.c.OrderController [main] Order saved
+2021-02-27 21:41:25,675 ERROR c.e.d.c.OrderController [main] unable to locate User
+2021-02-27 21:41:25,676 ERROR c.e.d.c.OrderController [main] unable to locate User
+2021-02-27 21:41:25,677 INFO c.e.d.c.UserController [main] createUser: success
+2021-02-27 21:41:25,677 INFO c.e.d.c.OrderController [main] Order: 1
+2021-02-27 21:41:31,684 INFO c.e.d.c.UserController [main] createUser: success
+2021-02-27 21:41:31,704 ERROR c.e.d.c.UserController [main] Password should have altleast seven characters
+2021-02-27 21:41:31,704 INFO c.e.d.c.UserController [main] createUser: success
+2021-02-27 21:41:31,706 INFO c.e.d.c.UserController [main] createUser: success
+2021-02-27 21:41:31,708 INFO c.e.d.c.UserController [main] createUser: success
